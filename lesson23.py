@@ -1,3 +1,4 @@
+# Добавка для проверки Git
 # Магические методы __getitem__, __setitem__, __delitem__
 
 class Vector0:
